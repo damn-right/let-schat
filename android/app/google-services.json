@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142483763435",
+    "project_id": "let-s-chat-faf9d",
+    "storage_bucket": "let-s-chat-faf9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142483763435:android:6694e772d8f462bcbe4eae",
+        "android_client_info": {
+          "package_name": "co.shijushaji.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142483763435-u8oqsm9vdt0ul5umuqjsid3uv5q6sva4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzGWfBjmcUHPe1azHyJTAiEoq43WxJN8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142483763435-u8oqsm9vdt0ul5umuqjsid3uv5q6sva4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
